@@ -1,0 +1,20 @@
+# OpenAI Integration (for GPT-4, GPT-35-Turbo, DALL·E 3)
+openai
+
+# Streamlit for Web Interface
+streamlit
+
+# Data Processing & Financial APIs
+yfinance
+pandas
+numpy
+matplotlib
+plotly
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+scikit-learn
+tiktoken
+torch
